@@ -1,0 +1,50 @@
+﻿要素,Calculate From Doc,PubMed Combined,WOS Combined,Elsevier,WanFang,CNKI,Calculated by Previous Basic Screen,Combined Basic Screen,Screen by Abstract
+数据库名称 & 平台,ALL,PubMed (via NCBI),Web of Science,Elsevier Scopus,WANFANG MED ONLINE,CNKI,ALL,ALL,ALL
+筛选日期,2025/4/27,2025/4/24,2025/4/25,2025/4/25,2025/4/27,2025/4/27,2025/4/27,2025/4/27,2025/4/29
+文献类型,All,"Case Reports, Clinical Study,Clinical Trial,Congress,Guideline,Meta-Analysis,Observational Study,Randomized Controlled Trial,Review,Scientific Integrity Review,Systematic Review,Technical Report,",,Research,Except letter/announcement,Except letter/announcement,All,All,All
+筛选项目,Filters applied: in the last 5 years.,"Duplicates Remove
+Year: 2021-2025
+Cosmetic(no other disease)
+Facial(no body)
+Human(no animal or basic research)
+
+
+
+","Duplicates Remove
+Year: 2021-2025
+Cosmetic(no other disease)
+Facial(no body)
+Human(no animal or basic research)
+
+
+
+","
+Year: 2021-2025
+Cosmetic(no other disease)
+Facial(no body)
+Human(no animal or basic research)
+
+
+
+","
+Year: 2021-2025
+Cosmetic(no other disease)
+Human(no animal research)
+
+
+
+","Year: 2021-2025
+Cosmetic(no other disease)
+Facial(no body)
+Human(no animal research)
+
+
+
+",,"Duplicates Remove
+No related Financial research",facial cosmetic
+筛选结果数量,1498,156,152,165,36,250,691,526,453
+备注 (可选),,,,,Combine and Remove Duplicate：218,,,,"Rates by cosmetic related & study value：
+****：109
+***：164
+**:119
+*:61"
